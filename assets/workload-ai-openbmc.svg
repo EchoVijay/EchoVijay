@@ -1,0 +1,46 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <style>
+      .title { fill:#7DD3FC; font:700 28px 'JetBrains Mono', monospace; }
+      .legend { fill:#E2E8F0; font:600 20px 'JetBrains Mono', monospace; }
+      .small { fill:#94A3B8; font:500 16px 'JetBrains Mono', monospace; }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="416" rx="16" fill="url(#bg)" stroke="#1E293B"/>
+  <text x="36" y="52" class="title">Current Workload Split (OpenBMC + AI/ML)</text>
+
+  <g transform="translate(290,220)">
+    <circle cx="0" cy="0" r="130" stroke="#1E293B" stroke-width="50" fill="none"/>
+
+    <g transform="rotate(-90)">
+      <circle cx="0" cy="0" r="130" stroke="#22D3EE" stroke-width="50" fill="none" stroke-linecap="round" stroke-dasharray="286 817">
+        <animate attributeName="stroke-dasharray" from="0 817" to="286 817" dur="1.2s" fill="freeze"/>
+      </circle>
+      <circle cx="0" cy="0" r="130" stroke="#38BDF8" stroke-width="50" fill="none" stroke-linecap="round" stroke-dasharray="212 817" stroke-dashoffset="-286">
+        <animate attributeName="stroke-dasharray" from="0 817" to="212 817" dur="1.5s" fill="freeze"/>
+      </circle>
+      <circle cx="0" cy="0" r="130" stroke="#0EA5E9" stroke-width="50" fill="none" stroke-linecap="round" stroke-dasharray="163 817" stroke-dashoffset="-498">
+        <animate attributeName="stroke-dasharray" from="0 817" to="163 817" dur="1.8s" fill="freeze"/>
+      </circle>
+      <circle cx="0" cy="0" r="130" stroke="#60A5FA" stroke-width="50" fill="none" stroke-linecap="round" stroke-dasharray="123 817" stroke-dashoffset="-661">
+        <animate attributeName="stroke-dasharray" from="0 817" to="123 817" dur="2s" fill="freeze"/>
+      </circle>
+    </g>
+
+    <text x="0" y="-8" text-anchor="middle" fill="#E2E8F0" font-family="JetBrains Mono, monospace" font-size="26" font-weight="700">OpenBMC + AI/ML</text>
+    <text x="0" y="24" text-anchor="middle" fill="#94A3B8" font-family="JetBrains Mono, monospace" font-size="16">Execution mix</text>
+  </g>
+
+  <g transform="translate(600,112)">
+    <rect x="0" y="0" width="22" height="22" rx="5" fill="#22D3EE"/><text x="34" y="17" class="legend">OpenBMC Core and Platform Services - 35%</text>
+    <rect x="0" y="48" width="22" height="22" rx="5" fill="#38BDF8"/><text x="34" y="65" class="legend">Firmware Validation and Security - 26%</text>
+    <rect x="0" y="96" width="22" height="22" rx="5" fill="#0EA5E9"/><text x="34" y="113" class="legend">AI/ML Automation for DevOps - 20%</text>
+    <rect x="0" y="144" width="22" height="22" rx="5" fill="#60A5FA"/><text x="34" y="161" class="legend">Linux Infra and Performance - 19%</text>
+    <text x="0" y="220" class="small">Different from expertise scores: this chart shows where active engineering time goes.</text>
+  </g>
+</svg>

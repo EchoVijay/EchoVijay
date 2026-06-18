@@ -1,0 +1,71 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <style>
+      .label { fill: #E2E8F0; font: 600 24px 'JetBrains Mono', monospace; }
+      .pct { fill: #BAE6FD; font: 600 21px 'JetBrains Mono', monospace; }
+      .title { fill: #7DD3FC; font: 700 28px 'JetBrains Mono', monospace; }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="386" rx="16" fill="url(#panel)" stroke="#1E293B"/>
+  <text x="36" y="48" class="title">Capability Readiness Matrix</text>
+
+  <g transform="translate(34,70)">
+    <g transform="translate(0,0)">
+      <text x="0" y="24" class="label">OpenBMC Architecture</text>
+      <rect x="390" y="2" width="760" height="28" rx="8" fill="#1E293B"/>
+      <rect x="390" y="2" width="722" height="28" rx="8" fill="url(#bar)">
+        <animate attributeName="width" from="0" to="722" dur="1.4s" fill="freeze"/>
+      </rect>
+      <text x="1068" y="24" class="pct">95%</text>
+    </g>
+    <g transform="translate(0,43)">
+      <text x="0" y="24" class="label">Embedded Linux</text>
+      <rect x="390" y="2" width="760" height="28" rx="8" fill="#1E293B"/>
+      <rect x="390" y="2" width="722" height="28" rx="8" fill="url(#bar)">
+        <animate attributeName="width" from="0" to="722" dur="1.55s" fill="freeze"/>
+      </rect>
+      <text x="1068" y="24" class="pct">95%</text>
+    </g>
+    <g transform="translate(0,86)">
+      <text x="0" y="24" class="label">Modern C++</text>
+      <rect x="390" y="2" width="760" height="28" rx="8" fill="#1E293B"/>
+      <rect x="390" y="2" width="684" height="28" rx="8" fill="url(#bar)">
+        <animate attributeName="width" from="0" to="684" dur="1.7s" fill="freeze"/>
+      </rect>
+      <text x="1068" y="24" class="pct">90%</text>
+    </g>
+    <g transform="translate(0,129)">
+      <text x="0" y="24" class="label">Yocto Build Systems</text>
+      <rect x="390" y="2" width="760" height="28" rx="8" fill="#1E293B"/>
+      <rect x="390" y="2" width="684" height="28" rx="8" fill="url(#bar)">
+        <animate attributeName="width" from="0" to="684" dur="1.85s" fill="freeze"/>
+      </rect>
+      <text x="1068" y="24" class="pct">90%</text>
+    </g>
+    <g transform="translate(0,172)">
+      <text x="0" y="24" class="label">Firmware Security</text>
+      <rect x="390" y="2" width="760" height="28" rx="8" fill="#1E293B"/>
+      <rect x="390" y="2" width="623" height="28" rx="8" fill="url(#bar)">
+        <animate attributeName="width" from="0" to="623" dur="2s" fill="freeze"/>
+      </rect>
+      <text x="1068" y="24" class="pct">82%</text>
+    </g>
+    <g transform="translate(0,215)">
+      <text x="0" y="24" class="label">AI/ML Tooling for Firmware Ops</text>
+      <rect x="390" y="2" width="760" height="28" rx="8" fill="#1E293B"/>
+      <rect x="390" y="2" width="615" height="28" rx="8" fill="url(#bar)">
+        <animate attributeName="width" from="0" to="615" dur="2.15s" fill="freeze"/>
+      </rect>
+      <text x="1068" y="24" class="pct">81%</text>
+    </g>
+  </g>
+</svg>

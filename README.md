@@ -9,17 +9,18 @@
 <table align="center">
   <tr>
     <td width="180" align="center" valign="top">
-      <img src="https://github.com/EchoVijay.png?size=180" width="170" alt="Vijay Vinayak" />
+      <img src="./assets/profile-avatar.svg" width="170" alt="Vijay Vinayak" />
       <br/>
-      <sub>Enterprise Firmware Engineering</sub>
+      <sub>OpenBMC Firmware Developer</sub>
     </td>
     <td valign="top">
       <h3>Vijay Vinayak</h3>
       <strong>Senior System Software Engineer</strong><br/><br/>
-      OpenBMC • Embedded Linux • Modern C++ • Yocto<br/>
-      Firmware Engineering • Platform Management • System Programming
+      OpenBMC Firmware Engineer • AI/ML Systems Engineer • Modern C++ • Yocto<br/>
+      Firmware Engineering • Platform Management • Linux Systems Programming
       <br/><br/>
       <img src="https://img.shields.io/badge/OpenBMC-Platform%20Engineering-0F172A?style=flat-square&logo=linuxfoundation&logoColor=22D3EE" />
+      <img src="https://img.shields.io/badge/AI%2FML-Firmware%20Automation-0F172A?style=flat-square&logo=tensorflow&logoColor=F59E0B" />
       <img src="https://img.shields.io/badge/Embedded%20Linux-Enterprise%20Servers-111827?style=flat-square&logo=linux&logoColor=84CC16" />
       <img src="https://img.shields.io/badge/Modern%20C%2B%2B-C%2B%2B20%2F23-1F2937?style=flat-square&logo=c%2B%2B&logoColor=60A5FA" />
       <img src="https://img.shields.io/badge/Yocto-Build%20Systems-0B1220?style=flat-square&logo=opensourceinitiative&logoColor=F59E0B" />
@@ -89,39 +90,16 @@ Senior System Software Engineer with 5+ years building production-grade platform
 ## Engineering Expertise Matrix
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=0EA5E9&center=true&vCenter=true&width=940&lines=Capability+Radar;Execution+Depth;Platform+Reliability+Metrics" alt="matrix-anim" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=0EA5E9&center=true&vCenter=true&width=980&lines=Capability+Readiness;Execution+Confidence;OpenBMC+and+AI%2FML+Delivery" alt="matrix-anim" />
 </p>
 
 <p align="center">
-  <img src="https://progress-bar.xyz/95/?title=OpenBMC&width=780&color=babaca" alt="OpenBMC 95" />
-  <img src="https://progress-bar.xyz/95/?title=Linux&width=780&color=babaca" alt="Linux 95" />
-  <img src="https://progress-bar.xyz/90/?title=Modern%20C%2B%2B&width=780&color=babaca" alt="Modern C++ 90" />
-  <img src="https://progress-bar.xyz/90/?title=Yocto&width=780&color=babaca" alt="Yocto 90" />
-  <img src="https://progress-bar.xyz/90/?title=System%20Programming&width=780&color=babaca" alt="System Programming 90" />
-  <img src="https://progress-bar.xyz/88/?title=IPMI&width=780&color=babaca" alt="IPMI 88" />
-  <img src="https://progress-bar.xyz/85/?title=Redfish&width=780&color=babaca" alt="Redfish 85" />
-  <img src="https://progress-bar.xyz/82/?title=Firmware%20Security&width=780&color=babaca" alt="Firmware Security 82" />
+  <img src="./assets/capability-bars.svg" width="98%" alt="Capability readiness bars" />
 </p>
 
-```mermaid
-xychart-beta
-    title "Engineering Depth"
-    x-axis [OpenBMC, Linux, Modern_CPP, Yocto, SysProg, IPMI, Redfish, FW_Security]
-    y-axis "Score" 0 --> 100
-    bar [95, 95, 90, 90, 90, 88, 85, 82]
-```
-
-```mermaid
-pie showData
-    title Expertise Distribution
-    "OpenBMC" : 20
-    "Linux" : 20
-    "Modern C++" : 18
-    "Yocto" : 15
-    "System Programming" : 12
-    "IPMI + Redfish" : 10
-    "Firmware Security" : 5
-```
+<p align="center">
+  <img src="./assets/workload-ai-openbmc.svg" width="98%" alt="Current workload split for OpenBMC and AI ML" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,100:22D3EE" width="100%" />
@@ -164,21 +142,9 @@ pie showData
   </tr>
 </table>
 
-```mermaid
-gantt
-    title Platform Delivery Timeline
-    dateFormat  YYYY-MM-DD
-    section OpenBMC
-    Update Framework        :a1, 2024-01-01, 80d
-    Multi Image Update      :a2, after a1, 70d
-    RackSCM Management      :a3, after a2, 60d
-    section Security
-    Cerberus Core           :b1, 2024-05-01, 75d
-    PFM Validation          :b2, after b1, 70d
-    section Linux
-    IPC Frameworks          :c1, 2024-02-15, 70d
-    Driver Integration      :c2, after c1, 65d
-```
+<p align="center">
+  <img src="./assets/platform-delivery-roadmap.svg" width="98%" alt="Platform delivery roadmap" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,100:0EA5E9" width="100%" />
@@ -213,13 +179,9 @@ gantt
   </tr>
 </table>
 
-```mermaid
-flowchart LR
-    A[Code Integration] --> B[Boot Validation]
-    B --> C[Security Gates]
-    C --> D[Recovery Automation]
-    D --> E[Production Rollout]
-```
+<p align="center">
+  <img src="./assets/project-flow-modern.svg" width="98%" alt="Project execution flow" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,100:22D3EE" width="100%" />
@@ -263,57 +225,23 @@ flowchart LR
 
 ### Engineering Philosophy
 
-<table>
-  <tr>
-    <td width="20%"><strong>01</strong></td>
-    <td><strong>Build reliable software.</strong></td>
-  </tr>
-  <tr>
-    <td><strong>02</strong></td>
-    <td><strong>Automate repetitive work.</strong></td>
-  </tr>
-  <tr>
-    <td><strong>03</strong></td>
-    <td><strong>Understand systems deeply.</strong></td>
-  </tr>
-  <tr>
-    <td><strong>04</strong></td>
-    <td><strong>Optimize for maintainability.</strong></td>
-  </tr>
-  <tr>
-    <td><strong>05</strong></td>
-    <td><strong>Design for scale.</strong></td>
-  </tr>
-</table>
-
-```mermaid
-mindmap
-  root((Engineering DNA))
-    Reliability
-      Fault tolerance
-      Predictable behavior
-    Automation
-      Tooling
-      CI/CD workflows
-    Deep systems thinking
-      Kernel internals
-      Protocol understanding
-    Maintainability
-      Clean interfaces
-      Long-term ownership
-    Scale
-      Enterprise platforms
-      Distributed infrastructure
-```
+<p align="center">
+  <img src="./assets/philosophy-cards.svg" width="98%" alt="Engineering philosophy cards" />
+</p>
 
 ### Current Focus
 
-- OpenBMC Architecture
-- Advanced C++20/C++23
-- Linux Kernel Internals
-- Firmware Security
-- AI Assisted Development
-- Distributed Infrastructure
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=650&color=22D3EE&center=true&vCenter=true&width=980&lines=OpenBMC+Architecture+and+Platform+Design;AI%2FML+for+Firmware+Validation+Pipelines;Advanced+C%2B%2B20%2F23+and+Linux+Internals;Security-first+Firmware+Engineering;Distributed+Infrastructure+Automation" alt="current-focus-animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenBMC-Architecture-0F172A?style=for-the-badge&logo=linuxfoundation&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/AI%2FML-Firmware%20Validation-0F172A?style=for-the-badge&logo=tensorflow&logoColor=F59E0B" />
+  <img src="https://img.shields.io/badge/C%2B%2B20%2F23-Systems%20Performance-0F172A?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Linux%20Internals-Deep%20Dive-0F172A?style=for-the-badge&logo=linux&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/Firmware%20Security-Production%20Priority-0F172A?style=for-the-badge&logo=letsencrypt&logoColor=10B981" />
+</p>
 
 ### Achievements
 
