@@ -1,24 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,35:0F172A,65:1E293B,100:0EA5E9&text=Vijay%20Vinayak&fontSize=52&fontColor=E2E8F0&fontAlignY=38&desc=Senior%20System%20Software%20Engineer&descAlignY=58&descSize=19&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,25:0B1220,60:0F172A,100:0EA5E9&text=Vijay%20Vinayak&fontSize=54&fontColor=E2E8F0&fontAlignY=36&desc=Senior%20System%20Software%20Engineer&descAlignY=56&descSize=20&animation=twinkling" alt="header" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2200&pause=900&color=22D3EE&center=true&vCenter=true&width=980&lines=OpenBMC+Engineer;Linux+Systems+Engineer;Firmware+Developer;Modern+C%2B%2B+Developer;Embedded+Software+Engineer;System+Programming+Enthusiast" alt="Typing animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2100&pause=850&color=22D3EE&center=true&vCenter=true&width=1040&lines=OpenBMC+Engineer;Linux+Systems+Engineer;Firmware+Developer;Modern+C%2B%2B+Developer;Embedded+Software+Engineer;System+Programming+Enthusiast" alt="typing" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenBMC-Platform%20Engineering-0F172A?style=for-the-badge&logo=linuxfoundation&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Embedded%20Linux-Enterprise%20Servers-111827?style=for-the-badge&logo=linux&logoColor=84CC16" />
-  <img src="https://img.shields.io/badge/Modern%20C%2B%2B-C%2B%2B20%2F23-1F2937?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/Yocto-Build%20Systems-0B1220?style=for-the-badge&logo=opensourceinitiative&logoColor=F59E0B" />
-</p>
-
-<p align="center">
-  <strong>OpenBMC • Embedded Linux • Modern C++ • Yocto</strong><br/>
-  <strong>Firmware Engineering • Platform Management • System Programming</strong>
-</p>
+<table align="center">
+  <tr>
+    <td width="180" align="center" valign="top">
+      <img src="https://github.com/EchoVijay.png?size=180" width="170" alt="Vijay Vinayak" />
+      <br/>
+      <sub>Enterprise Firmware Engineering</sub>
+    </td>
+    <td valign="top">
+      <h3>Vijay Vinayak</h3>
+      <strong>Senior System Software Engineer</strong><br/><br/>
+      OpenBMC • Embedded Linux • Modern C++ • Yocto<br/>
+      Firmware Engineering • Platform Management • System Programming
+      <br/><br/>
+      <img src="https://img.shields.io/badge/OpenBMC-Platform%20Engineering-0F172A?style=flat-square&logo=linuxfoundation&logoColor=22D3EE" />
+      <img src="https://img.shields.io/badge/Embedded%20Linux-Enterprise%20Servers-111827?style=flat-square&logo=linux&logoColor=84CC16" />
+      <img src="https://img.shields.io/badge/Modern%20C%2B%2B-C%2B%2B20%2F23-1F2937?style=flat-square&logo=c%2B%2B&logoColor=60A5FA" />
+      <img src="https://img.shields.io/badge/Yocto-Build%20Systems-0B1220?style=flat-square&logo=opensourceinitiative&logoColor=F59E0B" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,100:0EA5E9" width="100%" />
@@ -26,13 +33,17 @@
 
 ## Professional Summary
 
-Senior System Software Engineer with 5+ years of hands-on experience building platform software for enterprise server ecosystems.
+Senior System Software Engineer with 5+ years building production-grade platform software for enterprise server management and OpenBMC ecosystems.
 
 - Core domains: OpenBMC, Embedded Linux, Linux internals, system programming, Modern C++, Yocto Project
 - Platform interfaces: D-Bus, Redfish, IPMI
-- Security focus: firmware security, secure validation pipelines, trusted update flows
-- Hardware and platform exposure: AST2500, AST2600, Microsoft OpenBMC platforms
-- Delivery profile: production-grade firmware, maintainable architecture, high uptime serviceability
+- Security focus: secure firmware validation, trust chain enforcement, and resilient update pipelines
+- Hardware and platform depth: AST2500, AST2600, Microsoft OpenBMC platforms
+- Delivery signature: maintainable architecture, operational reliability, high-uptime firmware services
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=Production+Firmware+Mindset;Reliability+First+Engineering;Scalable+Platform+Architecture" alt="summary-anim" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,100:22D3EE" width="100%" />
@@ -40,59 +51,35 @@ Senior System Software Engineer with 5+ years of hands-on experience building pl
 
 ## Technology Dashboard
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C-Systems-0F172A?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/C%2B%2B-Modern%20C%2B%2B-0F172A?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/Python-Automation-0F172A?style=for-the-badge&logo=python&logoColor=FACC15" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-0F172A?style=for-the-badge&logo=gnubash&logoColor=84CC16" />
-</p>
+<table>
+  <tr>
+    <td width="18%"><strong>Languages</strong></td>
+    <td><code>C</code> <code>C++</code> <code>Python</code> <code>Bash</code></td>
+  </tr>
+  <tr>
+    <td><strong>Firmware</strong></td>
+    <td><code>OpenBMC</code> <code>U-Boot</code> <code>IPMI</code> <code>Redfish</code> <code>D-Bus</code></td>
+  </tr>
+  <tr>
+    <td><strong>Embedded Linux</strong></td>
+    <td><code>Linux Internals</code> <code>System Programming</code> <code>IPC</code> <code>Multi-threading</code> <code>Socket Programming</code> <code>Device Drivers</code></td>
+  </tr>
+  <tr>
+    <td><strong>Yocto</strong></td>
+    <td><code>BitBake</code> <code>Recipes</code> <code>Layers</code> <code>BSP</code> <code>Cross Compilation</code></td>
+  </tr>
+  <tr>
+    <td><strong>Security</strong></td>
+    <td><code>Cerberus</code> <code>PFM</code> <code>Secure Boot</code> <code>OpenSSL</code></td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td><code>Git</code> <code>GDB</code> <code>CMake</code> <code>Meson</code> <code>QEMU</code> <code>Wireshark</code></td>
+  </tr>
+</table>
 
-### Firmware
-<p>
-  <img src="https://img.shields.io/badge/OpenBMC-Core-111827?style=for-the-badge&logo=linuxfoundation&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/U--Boot-Bootloader-111827?style=for-the-badge&logo=gnu&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/IPMI-Management%20Stack-111827?style=for-the-badge&logo=serverfault&logoColor=10B981" />
-  <img src="https://img.shields.io/badge/Redfish-REST%20Management-111827?style=for-the-badge&logo=redhat&logoColor=EF4444" />
-  <img src="https://img.shields.io/badge/D--Bus-IPC%20Backbone-111827?style=for-the-badge&logo=dbt&logoColor=38BDF8" />
-</p>
-
-### Embedded Linux
-<p>
-  <img src="https://img.shields.io/badge/Linux%20Internals-Kernel%20Facing-1F2937?style=for-the-badge&logo=linux&logoColor=84CC16" />
-  <img src="https://img.shields.io/badge/System%20Programming-Low%20Level-1F2937?style=for-the-badge&logo=codeforces&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/IPC-High%20Reliability-1F2937?style=for-the-badge&logo=socket.io&logoColor=94A3B8" />
-  <img src="https://img.shields.io/badge/Multi--threading-Concurrency-1F2937?style=for-the-badge&logo=apachekafka&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/Socket%20Programming-Network%20Services-1F2937?style=for-the-badge&logo=proxmox&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/Device%20Drivers-Platform%20I%2FO-1F2937?style=for-the-badge&logo=linuxcontainers&logoColor=10B981" />
-</p>
-
-### Yocto
-<p>
-  <img src="https://img.shields.io/badge/BitBake-Build%20Orchestration-0B1220?style=for-the-badge&logo=yamaha&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Recipes-Metadata%20Engineering-0B1220?style=for-the-badge&logo=bookstack&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/Layers-Scalable%20Integration-0B1220?style=for-the-badge&logo=stackshare&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/BSP-Board%20Support-0B1220?style=for-the-badge&logo=microgenetics&logoColor=84CC16" />
-  <img src="https://img.shields.io/badge/Cross%20Compilation-Target%20Toolchains-0B1220?style=for-the-badge&logo=cmake&logoColor=60A5FA" />
-</p>
-
-### Security
-<p>
-  <img src="https://img.shields.io/badge/Cerberus-Root%20of%20Trust-111827?style=for-the-badge&logo=datadog&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/PFM-Policy%20Enforcement-111827?style=for-the-badge&logo=dependabot&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/Secure%20Boot-Integrity%20Chain-111827?style=for-the-badge&logo=letsencrypt&logoColor=10B981" />
-  <img src="https://img.shields.io/badge/OpenSSL-Crypto%20Engineering-111827?style=for-the-badge&logo=openssl&logoColor=60A5FA" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,cmake,python,bash,linux,vim" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/GDB-Debugging-0F172A?style=for-the-badge&logo=gnu&logoColor=EF4444" />
-  <img src="https://img.shields.io/badge/Meson-Build%20System-0F172A?style=for-the-badge&logo=meson&logoColor=3B82F6" />
-  <img src="https://img.shields.io/badge/QEMU-Virtual%20Validation-0F172A?style=for-the-badge&logo=qemu&logoColor=84CC16" />
-  <img src="https://img.shields.io/badge/Wireshark-Protocol%20Analysis-0F172A?style=for-the-badge&logo=wireshark&logoColor=38BDF8" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,linux,git,cmake,vim" alt="skill-icons" />
 </p>
 
 <p align="center">
@@ -101,15 +88,39 @@ Senior System Software Engineer with 5+ years of hands-on experience building pl
 
 ## Engineering Expertise Matrix
 
-```text
-OpenBMC              ████████████████████ 95%
-Linux                ████████████████████ 95%
-Modern C++           ██████████████████   90%
-Yocto                ██████████████████   90%
-System Programming   ██████████████████   90%
-IPMI                 █████████████████    88%
-Redfish              ████████████████     85%
-Firmware Security    ███████████████      82%
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=0EA5E9&center=true&vCenter=true&width=940&lines=Capability+Radar;Execution+Depth;Platform+Reliability+Metrics" alt="matrix-anim" />
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.xyz/95/?title=OpenBMC&width=780&color=babaca" alt="OpenBMC 95" />
+  <img src="https://progress-bar.xyz/95/?title=Linux&width=780&color=babaca" alt="Linux 95" />
+  <img src="https://progress-bar.xyz/90/?title=Modern%20C%2B%2B&width=780&color=babaca" alt="Modern C++ 90" />
+  <img src="https://progress-bar.xyz/90/?title=Yocto&width=780&color=babaca" alt="Yocto 90" />
+  <img src="https://progress-bar.xyz/90/?title=System%20Programming&width=780&color=babaca" alt="System Programming 90" />
+  <img src="https://progress-bar.xyz/88/?title=IPMI&width=780&color=babaca" alt="IPMI 88" />
+  <img src="https://progress-bar.xyz/85/?title=Redfish&width=780&color=babaca" alt="Redfish 85" />
+  <img src="https://progress-bar.xyz/82/?title=Firmware%20Security&width=780&color=babaca" alt="Firmware Security 82" />
+</p>
+
+```mermaid
+xychart-beta
+    title "Engineering Depth"
+    x-axis [OpenBMC, Linux, Modern_CPP, Yocto, SysProg, IPMI, Redfish, FW_Security]
+    y-axis "Score" 0 --> 100
+    bar [95, 95, 90, 90, 90, 88, 85, 82]
+```
+
+```mermaid
+pie showData
+    title Expertise Distribution
+    "OpenBMC" : 20
+    "Linux" : 20
+    "Modern C++" : 18
+    "Yocto" : 15
+    "System Programming" : 12
+    "IPMI + Redfish" : 10
+    "Firmware Security" : 5
 ```
 
 <p align="center">
@@ -117,6 +128,10 @@ Firmware Security    ███████████████      82%
 </p>
 
 ## Impact Metrics
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=600&color=22D3EE&center=true&vCenter=true&width=980&lines=Enterprise+Delivery+Footprint;Firmware+Security+Integration;OpenBMC+Platform+Execution" alt="impact-anim" />
+</p>
 
 <table>
   <tr>
@@ -149,11 +164,31 @@ Firmware Security    ███████████████      82%
   </tr>
 </table>
 
+```mermaid
+gantt
+    title Platform Delivery Timeline
+    dateFormat  YYYY-MM-DD
+    section OpenBMC
+    Update Framework        :a1, 2024-01-01, 80d
+    Multi Image Update      :a2, after a1, 70d
+    RackSCM Management      :a3, after a2, 60d
+    section Security
+    Cerberus Core           :b1, 2024-05-01, 75d
+    PFM Validation          :b2, after b1, 70d
+    section Linux
+    IPC Frameworks          :c1, 2024-02-15, 70d
+    Driver Integration      :c2, after c1, 65d
+```
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,100:0EA5E9" width="100%" />
 </p>
 
 ## Featured Projects
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=1020&lines=Architecture+to+Production;Automation+at+Scale;Secure+Firmware+Operations" alt="projects-anim" />
+</p>
 
 <table>
   <tr>
@@ -177,6 +212,14 @@ Firmware Security    ███████████████      82%
     </td>
   </tr>
 </table>
+
+```mermaid
+flowchart LR
+    A[Code Integration] --> B[Boot Validation]
+    B --> C[Security Gates]
+    C --> D[Recovery Automation]
+    D --> E[Production Rollout]
+```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,100:22D3EE" width="100%" />
@@ -214,14 +257,53 @@ Firmware Security    ███████████████      82%
 
 ## Open Source
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=650&color=22D3EE&center=true&vCenter=true&width=960&lines=Engineering+Philosophy;Systems+Thinking;Reliability+as+a+Feature" alt="open-source-anim" />
+</p>
+
 ### Engineering Philosophy
 
-```text
-Build reliable software.
-Automate repetitive work.
-Understand systems deeply.
-Optimize for maintainability.
-Design for scale.
+<table>
+  <tr>
+    <td width="20%"><strong>01</strong></td>
+    <td><strong>Build reliable software.</strong></td>
+  </tr>
+  <tr>
+    <td><strong>02</strong></td>
+    <td><strong>Automate repetitive work.</strong></td>
+  </tr>
+  <tr>
+    <td><strong>03</strong></td>
+    <td><strong>Understand systems deeply.</strong></td>
+  </tr>
+  <tr>
+    <td><strong>04</strong></td>
+    <td><strong>Optimize for maintainability.</strong></td>
+  </tr>
+  <tr>
+    <td><strong>05</strong></td>
+    <td><strong>Design for scale.</strong></td>
+  </tr>
+</table>
+
+```mermaid
+mindmap
+  root((Engineering DNA))
+    Reliability
+      Fault tolerance
+      Predictable behavior
+    Automation
+      Tooling
+      CI/CD workflows
+    Deep systems thinking
+      Kernel internals
+      Protocol understanding
+    Maintainability
+      Clean interfaces
+      Long-term ownership
+    Scale
+      Enterprise platforms
+      Distributed infrastructure
 ```
 
 ### Current Focus
@@ -248,14 +330,13 @@ Design for scale.
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-Direct%20Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://www.linkedin.com/in/vijay-vinayak"><img src="https://img.shields.io/badge/LinkedIn-vijay--vinayak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vijayvinayak2190vv@gmail.com"><img src="https://img.shields.io/badge/Email-vijayvinayak2190vv%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
   <a href="https://github.com/EchoVijay?tab=repositories"><img src="https://img.shields.io/badge/Pinned%20Repos-Engineering%20Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  Building reliable firmware,<br/>
-  one commit at a time.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=880&lines=Building+reliable+firmware%2C+one+commit+at+a+time." alt="footer-line" />
 </p>
 
 <p align="center">
