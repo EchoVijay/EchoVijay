@@ -1,0 +1,53 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="90" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <style>
+      .title { fill:#7DD3FC; font:700 28px 'JetBrains Mono', monospace; }
+      .label { fill:#E2E8F0; font:600 17px 'JetBrains Mono', monospace; }
+      .date { fill:#94A3B8; font:500 14px 'JetBrains Mono', monospace; }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="356" rx="16" fill="url(#bg)" stroke="#1E293B"/>
+  <text x="36" y="52" class="title">Platform Delivery Roadmap</text>
+
+  <line x1="90" y1="190" x2="1080" y2="190" stroke="url(#line)" stroke-width="4"/>
+
+  <g>
+    <circle cx="170" cy="190" r="13" fill="#22D3EE"><animate attributeName="r" values="10;14;10" dur="2.4s" repeatCount="indefinite"/></circle>
+    <rect x="110" y="92" width="120" height="56" rx="9" fill="#0F172A" stroke="#22D3EE"/>
+    <text x="170" y="126" text-anchor="middle" class="label">Baseline</text>
+    <text x="170" y="220" text-anchor="middle" class="date">Q1</text>
+  </g>
+  <g>
+    <circle cx="360" cy="190" r="13" fill="#22D3EE"><animate attributeName="r" values="10;14;10" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <rect x="290" y="230" width="140" height="56" rx="9" fill="#0F172A" stroke="#22D3EE"/>
+    <text x="360" y="264" text-anchor="middle" class="label">Multi Image</text>
+    <text x="360" y="220" text-anchor="middle" class="date">Q2</text>
+  </g>
+  <g>
+    <circle cx="560" cy="190" r="13" fill="#22D3EE"><animate attributeName="r" values="10;14;10" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <rect x="488" y="92" width="144" height="56" rx="9" fill="#0F172A" stroke="#22D3EE"/>
+    <text x="560" y="126" text-anchor="middle" class="label">RackSCM Ops</text>
+    <text x="560" y="220" text-anchor="middle" class="date">Q2-Q3</text>
+  </g>
+  <g>
+    <circle cx="770" cy="190" r="13" fill="#22D3EE"><animate attributeName="r" values="10;14;10" dur="2.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <rect x="700" y="230" width="140" height="56" rx="9" fill="#0F172A" stroke="#22D3EE"/>
+    <text x="770" y="264" text-anchor="middle" class="label">Cerberus + PFM</text>
+    <text x="770" y="220" text-anchor="middle" class="date">Q3</text>
+  </g>
+  <g>
+    <circle cx="980" cy="190" r="13" fill="#22D3EE"><animate attributeName="r" values="10;14;10" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <rect x="900" y="92" width="160" height="56" rx="9" fill="#0F172A" stroke="#22D3EE"/>
+    <text x="980" y="126" text-anchor="middle" class="label">AI/ML Assist Layer</text>
+    <text x="980" y="220" text-anchor="middle" class="date">Q4</text>
+  </g>
+</svg>

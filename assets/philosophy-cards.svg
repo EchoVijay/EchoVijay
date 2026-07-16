@@ -1,0 +1,53 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="210" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <style>
+      .title { fill:#7DD3FC; font:700 28px 'JetBrains Mono', monospace; }
+      .num { fill:#22D3EE; font:700 22px 'JetBrains Mono', monospace; }
+      .txt { fill:#E2E8F0; font:600 16px 'JetBrains Mono', monospace; }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="326" rx="16" fill="url(#bg)" stroke="#1E293B"/>
+  <text x="36" y="52" class="title">Engineering Philosophy</text>
+
+  <g transform="translate(36,86)">
+    <g>
+      <rect x="0" y="0" width="215" height="118" rx="12" fill="url(#card)" stroke="#22D3EE"/>
+      <text x="20" y="34" class="num">01</text>
+      <text x="20" y="69" class="txt">Build reliable</text>
+      <text x="20" y="92" class="txt">software systems</text>
+    </g>
+    <g transform="translate(228,0)">
+      <rect x="0" y="0" width="215" height="118" rx="12" fill="url(#card)" stroke="#22D3EE"/>
+      <text x="20" y="34" class="num">02</text>
+      <text x="20" y="69" class="txt">Automate repeatable</text>
+      <text x="20" y="92" class="txt">engineering tasks</text>
+    </g>
+    <g transform="translate(456,0)">
+      <rect x="0" y="0" width="215" height="118" rx="12" fill="url(#card)" stroke="#22D3EE"/>
+      <text x="20" y="34" class="num">03</text>
+      <text x="20" y="69" class="txt">Understand systems</text>
+      <text x="20" y="92" class="txt">from first principles</text>
+    </g>
+    <g transform="translate(684,0)">
+      <rect x="0" y="0" width="215" height="118" rx="12" fill="url(#card)" stroke="#22D3EE"/>
+      <text x="20" y="34" class="num">04</text>
+      <text x="20" y="69" class="txt">Optimize for long-term</text>
+      <text x="20" y="92" class="txt">maintainability</text>
+    </g>
+    <g transform="translate(912,0)">
+      <rect x="0" y="0" width="215" height="118" rx="12" fill="url(#card)" stroke="#22D3EE"/>
+      <text x="20" y="34" class="num">05</text>
+      <text x="20" y="69" class="txt">Design for enterprise</text>
+      <text x="20" y="92" class="txt">scale and resilience</text>
+    </g>
+  </g>
+</svg>
